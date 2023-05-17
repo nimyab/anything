@@ -26,3 +26,12 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+
+a.foo1:hover {
+    text-decoration-color: rgb(212, 27, 27);
+    color: rgb(212, 27, 27);
+  }
+  a.foo1 {
+    text-decoration-color: rgb(23, 25, 146);
+    color: rgb(23, 25, 146);
+  }
