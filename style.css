@@ -7,9 +7,13 @@ ol li {
 }
 .exam {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 #table {
-    line-height:200%
+    
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-radius: auto;
 }
 footer {
     padding-top: 3px;
